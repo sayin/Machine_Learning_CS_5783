@@ -19,3 +19,8 @@
    1. Linear regression: radial basis functions.
    1. Bayesian MAP estimates.  
    1. Logistic regression on [Iris dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+
+1. **HW4:**
+   1. Gaussian process regression with five-fold cross-validation.
+   1. K-means clustering.
+   1. Hidden Markov Models (forward-backward algorithm). 
