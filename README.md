@@ -7,3 +7,11 @@
    1. Maximum-likelihood linear least squares classifier.
    1. Nearest neighbors classification using KD tree.
    1. Testing above both classifier using  overlapped Gaussian distributions.
+
+
+1. **HW2--Bayes Classifiers:**
+   1. Naive Bayes (uniform Dirichlet prior) on MNIST data set.
+   1. Naive Bayes (Gaussian kernel) and ROC curve (FPR vd TPR).
+   1. Brute force nearest neighbors search (no KD tree).
+   
+   
