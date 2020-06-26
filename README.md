@@ -10,7 +10,7 @@
 
 
 1. **HW2--Bayes Classifiers:**
-   1. Naive Bayes (uniform Dirichlet prior) on MNIST data set.
+   1. Naive Bayes (uniform Dirichlet prior) on [MNIST data set](http://yann.lecun.com/exdb/mnist/).
    1. Naive Bayes (Gaussian kernel) and ROC curve (FPR vd TPR).
    1. Brute force nearest neighbors search (no KD tree).
    
