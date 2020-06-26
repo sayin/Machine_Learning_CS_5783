@@ -14,4 +14,8 @@
    1. Naive Bayes (Gaussian kernel) and ROC curve (FPR vd TPR).
    1. Brute force nearest neighbors search (no KD tree).
    
-   
+1. **HW3--Regression on NHSA automobile crash test data:**
+   1.Linear regression: polynomial basis functions.
+   1.Linear regression: radial basis functions.
+   1.Bayesian MAP estimates.  
+   1.Logistic regression on [Iris dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
