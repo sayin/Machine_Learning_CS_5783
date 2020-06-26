@@ -15,6 +15,7 @@
    1. Brute force nearest neighbors search (no KD tree).
    
 1. **HW3--Regression on NHSA automobile crash test data:**
+
    1.Linear regression: polynomial basis functions.
    1.Linear regression: radial basis functions.
    1.Bayesian MAP estimates.  
